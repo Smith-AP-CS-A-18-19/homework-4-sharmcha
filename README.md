@@ -4,7 +4,7 @@ You have one week to complete these five problems. Some of are modified versions
 
 ## Skills
 
-This homework covers skills 1.11, 2.1, 2.2, and 2.3. You will most likely have to rely on previously learned to complete the problems, but the bulk of the work will practice these skills.
+This homework covers skills 2.2, 2.3, 2.4, 2.5, 2.7, and 2.8. You will most likely have to rely on previously learned to complete the problems, but the bulk of the work will practice these skills.
 
 ## As always...
 Make sure that you include your first and last name in the comment section at the very beginning of the Java file; if I cannot determine whose homework this is, I cannot give you credit.
