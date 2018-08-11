@@ -1,6 +1,7 @@
 public class Homework4 {
 
-	/* Finish the constructor and create any instance variables
+	/* Finish the constructor and create any necessary instance
+	 * variables
 	 */
 	public Homework4(String s, int i) {
 

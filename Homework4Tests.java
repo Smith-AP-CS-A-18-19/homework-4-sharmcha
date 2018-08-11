@@ -3,7 +3,7 @@ public class Homework4Tests {
 	public static void main(String[] args) {
 		int exitCode = 0;
 
-		Homework2 hw4 = new Homework4("Hello, World!", 5);
+		Homework4 hw4 = new Homework4("Hello, World!", 5);
 
 		if (hw4.multiply(2.5) == 12.25) {
 			System.out.println("Pass 1");
